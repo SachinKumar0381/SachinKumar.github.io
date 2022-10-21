@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7005af9.css",
+    "main.js": "/static/js/main.48af6015.js",
+    "static/js/787.657ad6a5.chunk.js": "/static/js/787.657ad6a5.chunk.js",
+    "static/media/sachin.jpg": "/static/media/sachin.003ac51bba877ca7a1bb.jpg",
+    "static/media/freshly.png": "/static/media/freshly.a15461092b101982c68d.png",
+    "static/media/stylecraze.png": "/static/media/stylecraze.d37b87f4ea8452c1c291.png",
+    "static/media/netmeds.png": "/static/media/netmeds.eae2eb08ab9aeead9e62.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Sachin_Kumar_Resume_12-09-2022-18-40-12.pdf": "/static/media/Sachin_Kumar_Resume_12-09-2022-18-40-12.1df535461a8bc6bbd2c4.pdf",
+    "static/media/meanbuy.png": "/static/media/meanbuy.399acf33b9dfc2f394f8.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/connect-dark.png": "/static/media/connect-dark.f2d6879fa614e13e8221.png",
+    "static/media/connect-light.png": "/static/media/connect-light.310b15f3310c5b03acde.png",
+    "static/media/skills-dark.svg": "/static/media/skills-dark.797b633ad730ef789745afcab0d0f0d7.svg",
+    "static/media/skills-light.svg": "/static/media/skills-light.90685112178c68f47e38a8a60a0c1f4f.svg",
+    "index.html": "/index.html",
+    "main.e7005af9.css.map": "/static/css/main.e7005af9.css.map",
+    "main.48af6015.js.map": "/static/js/main.48af6015.js.map",
+    "787.657ad6a5.chunk.js.map": "/static/js/787.657ad6a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7005af9.css",
+    "static/js/main.48af6015.js"
+  ]
+}
